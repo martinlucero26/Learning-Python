@@ -1,0 +1,7 @@
+Web oficial de python: https://www.python.org/
+
+Tutorial oficial de Python en Español: https://docs.python.org/es/3/tutorial/index.html
+
+Repo 30 días en Python: https://github.com/Asabeneh/30-Days-Of-Python
+
+Juego Codédex para aprender Python: https://www.codedex.io/
