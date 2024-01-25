@@ -28,5 +28,12 @@ print(my_dict["Singers"])
 my_dict["Nombre"] = "Carlos" #Cambia el valor de la clave
 print(my_dict)
 
-my_dict["Singers"].add("Jesse")
+my_dict["Singers"].add("Jesse Baez") #Agrega un elemento al set
 print(my_dict)
+
+my_dict["Singers"].remove("Cruzzi") #Elimina un elemento del set
+print(my_dict)
+
+print(my_dict.items())
+print(my_dict.keys())
+print(my_dict.values())
