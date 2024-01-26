@@ -34,6 +34,8 @@ print(my_dict)
 my_dict["Singers"].remove("Cruzzi") #Elimina un elemento del set
 print(my_dict)
 
-print(my_dict.items())
-print(my_dict.keys())
-print(my_dict.values())
+print(my_dict.items()) #Muestra los pares clave-valor
+print(my_dict.keys()) #Muestra solo las claves
+print(my_dict.values()) #Muestra solo los valores
+
+print(my_dict.fromkeys) #Crea un diccionario a partir de una lista
